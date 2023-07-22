@@ -1,5 +1,5 @@
 # Alphabet Recognition Project
-
+![Alt Text](https://github.com/Miral086/Handwritten-Alphabet-Recognition/blob/main/web.gif)
 
 The **Alphabet Recognition** project is an interactive application that allows users to engage in two main activities:
 
